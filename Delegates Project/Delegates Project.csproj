@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Delegates_Project.AnonymousMethods</StartupObject>
+    <StartupObject>Delegates_Project.GenericDelegates</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnonymousMethods.cs" />
+    <Compile Include="GenericDelegates.cs" />
     <Compile Include="LambdaExpressions.cs" />
     <Compile Include="Rectangle.cs" />
     <Compile Include="Program.cs" />
