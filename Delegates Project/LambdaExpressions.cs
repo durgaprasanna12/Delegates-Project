@@ -12,7 +12,7 @@ namespace Delegates_Project
        
         static void Main()
         {
-            GreetingsDelegate obj = delegate (string name)
+            GreetingsDelegate obj =  (name) =>
             {
                 return "Hello" + name;
             };
