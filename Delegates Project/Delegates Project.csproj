@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnonymousMethods.cs" />
+    <Compile Include="LambdaExpressions.cs" />
     <Compile Include="Rectangle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
